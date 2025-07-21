@@ -16,8 +16,8 @@ A React application to visually build JSON schemas with support for nested field
 
 ## Demo
 
-![Demo Screenshot](<img width="1366" height="669" alt="demo" src="https://github.com/user-attachments/assets/80b85974-ce6a-4932-be5e-d110ee6b31c5" />
-) <!-- Add your screenshot here -->
+![Demo Screenshot](demo.png) <!-- Add your screenshot here -->
+<img width="1366" height="669" alt="demo" src="https://github.com/user-attachments/assets/026bf4fe-0fdf-47e5-b802-8e59424d1f85" />
 
 ---
 
