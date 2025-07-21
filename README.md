@@ -31,8 +31,8 @@ A React application to visually build JSON schemas with support for nested field
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/<your-username>/<repo-name>.git
-    cd <repo-name>
+    git clone https://github.com/cinderellascode/SE-Trainee---Frontend-Task-Submission.git
+    cd SE-Trainee---Frontend-Task-Submission
     ```
 
 2. Install dependencies:
